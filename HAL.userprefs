@@ -2,7 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sorce/CardController.cs">
     <Files>
-      <File FileName="Assets/Sorce/CardController.cs" Line="45" Column="3" />
+      <File FileName="Assets/Sorce/CardController.cs" Line="21" Column="3" />
+      <File FileName="Assets/Sorce/ButtonController.cs" Line="19" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

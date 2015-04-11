@@ -17,5 +17,9 @@ public class ButtonController : MonoBehaviour {
 	public void ClickHi (){
 		CardControl.DeleteCard (true);
 	}
+
+	public void yahoo (){
+		Debug.Log ("yahoo!");
+	}
 		
 }
